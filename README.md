@@ -1,6 +1,6 @@
-# Resources for Writing and Speaking
+# Resources for Speaking and Writing
 
-I started collecting resources to share with the members of Write/Speak/Code. This repo is geared toward women interest in technical blogging and speaking.
+I started collecting resources to share with the members of [Write/Speak/Code](http://www.writespeakcode.com/). This repo is geared toward women interest in technical blogging and speaking.
 
 ## Speak
 
@@ -12,7 +12,7 @@ I started collecting resources to share with the members of Write/Speak/Code. Th
 
 ### Slides
 
-* [Slide Design for Developers](http://zachholman.com/posts/slide-design-for-developers/) <- Amazing
+* [Slide Design for Developers](http://zachholman.com/posts/slide-design-for-developers/): by Zach Holman. **tldr;** Huge text. Consistent colors. Less words.
 * [On Slide Decks](https://carouth.com/blog/2014/03/20/on-slide-decks/): Advice for making a good slideshow
 * [Practical Tips for Creating Great Slides](http://weareallaweso.me/for_speakers/practical-tips-for-creating-great-slides.html): 30 second read, great advice
 
@@ -28,7 +28,9 @@ I started collecting resources to share with the members of Write/Speak/Code. Th
 ### Newsletters
 
 * [Technically Speaking](http://tinyletter.com/techspeak/): CFPs, speaking tips, and inspirational videos
+* [Femgineer](http://femgineer.com/): Weekly lessons on public speaking
 
 
 ### Communities
 * [Technical Women Speak Too](https://plus.google.com/communities/101818001236662563704?utm_content=buffer61e5f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Google group
+* [Write/Speak/Code](http://www.writespeakcode.com/)
