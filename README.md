@@ -9,6 +9,7 @@ I started collecting resources to share with the members of [Write/Speak/Code](h
 
 * [Is Your Conference Proposal Good Enough?](http://rckbt.me/2014/01/conference-proposals/): A list of Do's and Don'ts
 * [How to Submit Proposals and Influence People](http://www.noelrappin.com/railsrx/2014/1/18/conference-prompts-or-how-to-submit-proposals-and-influence-people): Quick advice for finding an idea and writing an effective proposal
+* [How to Write a Conference Proposal](http://blowmage.com/2013/01/24/writing-conf-proposals): Tips for the title, abstract and bio from a Ruby conf organizer
 
 ### Slides
 
@@ -22,9 +23,9 @@ I started collecting resources to share with the members of [Write/Speak/Code](h
 * [Speaking Tips from a Grizzled Speaker](http://www.joshholmes.com/blog/2014/01/17/speaking-tips-grizzled-speaker/): Collection of advice from speakers
 * [We are all Awesome](http://weareallaweso.me/): Motivation and advice for becoming a speaker
 * [Seize the Room](http://seizetheroom.com/): Blog dedicated to public speaking
-* [What you need to know about speaking at conferences](http://www.ashedryden.com/blog/what-you-need-to-know-about-speaking-at-conferences) by Ashe Dryden
+* [What you need to know about speaking at conferences](http://www.ashedryden.com/blog/what-you-need-to-know-about-speaking-at-conferences): by Ashe Dryden
 * [Practical Public Speaking for Nerds](http://dave.cheney.net/2015/02/17/practical-public-speaking-for-nerds): Last minute tips
-
+* [The Single Best Thing You Can Do for Your Career](http://www.donnfelker.com/the-single-best-thing-you-can-do-for-your-career/): Encouraging anecdote about how technical speaking can further your career
 
 ### Newsletters
 
