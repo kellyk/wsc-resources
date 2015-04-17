@@ -20,6 +20,7 @@ I started collecting resources to share with the members of [Write/Speak/Code](h
 ### Speaking
 * [speaking.io](http://speaking.io/): Thoughts on Public Speaking by Zach Holman
 * [Preparing to Speak](http://www.lornajane.net/resource/preparing-to-speak): So you got accepted -- now what?
+* [How I Prep in the 24 Hours Before a Conference Talk](http://blog.sashalaundy.com/blog/2015/02/23/how-i-prep-in-the-24-hours-before-a-conference-talk/)
 * [Speaking Tips from a Grizzled Speaker](http://www.joshholmes.com/blog/2014/01/17/speaking-tips-grizzled-speaker/): Collection of advice from speakers
 * [We are all Awesome](http://weareallaweso.me/): Motivation and advice for becoming a speaker
 * [Seize the Room](http://seizetheroom.com/): Blog dedicated to public speaking
