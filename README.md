@@ -4,6 +4,14 @@ I started collecting resources to share with the members of [Write/Speak/Code](h
 
 ## Speak
 
+### Finding Conferences to Speak At
+* [Callback Women](https://twitter.com/callbackwomen): Diversity-minded Twitter account that Tweets open CFPs
+* [The CFP Report](https://thecfpreport.com/): Newsletter of open CFPs, includes information about speaker packages
+* [Technically Speaking](http://tinyletter.com/techspeak/): Newsletter about speaking at conferences, with a section about open CFPs
+* [Code Review](https://www.womenwhocode.com/): Newsletter about women in tech, with a section about open CFPs
+* [Technical Women Speak Too](https://plus.google.com/communities/101818001236662563704?utm_content=buffer61e5f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer): O'Reilly run Google group about conferences, often includes open CFPs
+* [Global & Regional Conferences](https://github.com/WriteSpeakCode/own-your-expertise/blob/master/speak.md#speaking-opportunities): List of recurring conferences by region
+
 
 ### CFPs
 
